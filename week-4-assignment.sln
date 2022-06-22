@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20E4684D-59FE-4DD7-BC5F-388AC7BECE0F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkBilgisayarJwtWebApi", "LinkBilgisayarJwtWebApi\LinkBilgisayarJwtWebApi.csproj", "{CB8E3C31-D321-45F4-90C0-B0F19196FC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheAssignment", "InMemoryCacheAssignment\InMemoryCacheAssignment.csproj", "{24EC21A9-B7D9-4220-8767-EEB8252C40F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDemo", "RedisDemo\RedisDemo.csproj", "{F054CF6C-DA50-419E-94A5-E09CF2621C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB8E3C31-D321-45F4-90C0-B0F19196FC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8E3C31-D321-45F4-90C0-B0F19196FC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8E3C31-D321-45F4-90C0-B0F19196FC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8E3C31-D321-45F4-90C0-B0F19196FC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EC21A9-B7D9-4220-8767-EEB8252C40F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F054CF6C-DA50-419E-94A5-E09CF2621C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8385A6B1-8AC7-495D-8A56-A40AD07B3672}
+	EndGlobalSection
+EndGlobal
